@@ -1,5 +1,5 @@
 :root {
-  font: 16px / 1 sans-serif;
+  font: 16px / 1 san-serif;
 }
 html {
   height: 100%;
@@ -7,4 +7,14 @@ html {
 body {
   margin: 0;
   min-height: 100%;
+}
+
+h1 {
+  color: white;
+  background-color: blue;
+  border: 2px solid black;
+}
+
+p {
+  color: darksalmon;
 }
